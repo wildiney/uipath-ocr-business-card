@@ -1,0 +1,10 @@
+// Ui Path Folders and Files
+.entities
+.local
+.screenshots
+.settings
+.tmh
+
+// Robot Files
+images*
+Report*
